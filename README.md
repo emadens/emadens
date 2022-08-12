@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Ema, an EIT Digital Data Science MSc student at Politecnico di Milano 🇮🇹 and KTH Royal Institute of Technology swe
+I'm Ema, an EIT Digital Data Science MSc student at Politecnico di Milano 🇮🇹 and KTH Royal Institute of Technology swe.
+
 📫 How to reach me:
  - [Linkedin](https://www.linkedin.com/in/emabaldelli/)
  - [Mail](mailto:ema.baldelli02@gmail.com)
