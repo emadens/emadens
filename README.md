@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Ema, an EIT Digital Data Science MSc student at Politecnico di Milano 🇮🇹 and KTH Royal Institute of Technology swe
+📫 How to reach me:
+ - [Linkedin](https://www.linkedin.com/in/emabaldelli/)
+ - [Mail](mailto:ema.baldelli02@gmail.com)
+
 <!--
 **emadens/emadens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
