@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emanuele Baldelli</h1>
+<h1 align="center">👋 Hi, I'm Emanuele Baldelli</h1>
 <h3 align="center">Italian abitious Data Science student currently studying in Stockholm</h3>
 <br />
 
